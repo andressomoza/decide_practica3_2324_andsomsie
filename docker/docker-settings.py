@@ -6,7 +6,7 @@ DATABASES = {
         'NAME': 'integracion',
         'USER': 'integracion',
         'PASSWORD':'integracion',
-        'HOST': 'db',
+        'HOST': 'localhost',
         'PORT': 5432,
     }
 }
